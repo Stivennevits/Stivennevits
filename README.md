@@ -1,8 +1,6 @@
 ### hi there, I´m Stiben™️ 🌐🖥️
 ![My project-1 (3) (2)](https://user-images.githubusercontent.com/108912463/215553440-22fd5b83-4cd3-4eaf-bf29-06d063bceea3.png)
 
-
-
 ```js
 const Stivennevits = {
   pronouns: "He" | "his",
@@ -11,6 +9,11 @@ const Stivennevits = {
   architecture: ["microservices","MVC"],
 }
 ```
+You can find me 🧭: 
+- [Linkedin](https://www.linkedin.com/in/edinson-stiven-sinitave-marin-a060ab21a/)
+- [Stack OverFlow](https://stackoverflow.com/users/21112708/stiven-sinitave)
+- [Twitter](https://twitter.com/Stivennevits16)
+
 
 <picture>
 <source 
