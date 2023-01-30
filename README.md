@@ -1,4 +1,14 @@
 ### Hi there 👋
+![My project-1](https://user-images.githubusercontent.com/108912463/215535735-a301c54d-13d9-4c44-b78f-9b0516cc1c4f.png)
+
+```js
+const Stivennevits = {
+  pronouns: "He" | "his",
+  code: [Javascript,Java, HTML, CSS, Oracle, MySql],
+  tools: [React, Node, Docker, Spring Boot, Express],
+  architecture: ["microservices","MVC"],
+}
+```
 
 <!--
 **Stivennevits/Stivennevits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
