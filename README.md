@@ -11,8 +11,7 @@
 const Stivennevits = {
   pronouns: "He" | "his",
   code: [Javascript,Java, HTML, CSS, Oracle, MySql],
-  tools: [React, Node, Docker, Spring Boot, Express],
-  architecture: ["microservices","MVC"],
+  tools: [React, Node, Docker, Spring Boot, Express]
 }
 ```
 ## Languages and Tools:
