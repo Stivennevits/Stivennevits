@@ -2,8 +2,7 @@
 ![My project-1 (3) (2)](https://user-images.githubusercontent.com/108912463/215553440-22fd5b83-4cd3-4eaf-bf29-06d063bceea3.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stivennevits&label=Profile%20views&color=0e75b6&style=flat" alt="stivennevits" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stivennevits" alt="stivennevits" /></a> </p>
-
+![](https://github-profile-trophy.vercel.app/?username=stivennevits&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 
 ## About me in code
@@ -61,6 +60,12 @@ const Stivennevits = {
 ## My Favorite Music 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31xhfxrz5bug4e7yg3eprce324r4&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
 <!--
