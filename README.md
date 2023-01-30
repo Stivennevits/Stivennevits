@@ -1,5 +1,6 @@
 ### Hi there 👋
-![My project-1](https://user-images.githubusercontent.com/108912463/215535735-a301c54d-13d9-4c44-b78f-9b0516cc1c4f.png)
+![My project-1 (1)](https://user-images.githubusercontent.com/108912463/215538284-e7368508-1f29-4f63-a7c2-ff57332fde66.png)
+
 
 ```js
 const Stivennevits = {
