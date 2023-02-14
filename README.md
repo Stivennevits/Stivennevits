@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stivennevits&label=Profile%20views&color=0e75b6&style=flat" alt="stivennevits" /> </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=stivennevits&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+![logo](https://user-images.githubusercontent.com/108912463/218767918-a49e9ae0-87ab-4f03-b9ee-7d6adc7da32e.png)
 
 
 ## About me in code
