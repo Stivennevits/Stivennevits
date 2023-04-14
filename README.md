@@ -1,6 +1,6 @@
 
 
-![logo](https://user-images.githubusercontent.com/108912463/218767918-a49e9ae0-87ab-4f03-b9ee-7d6adc7da32e.png)
+![image](https://user-images.githubusercontent.com/108912463/232141297-7db54024-6f79-4000-a161-438903a9e34c.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stivennevits&label=Profile%20views&color=0e75b6&style=flat" alt="stivennevits" /> </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=stivennevits&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
