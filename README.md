@@ -1,6 +1,6 @@
 
 
-![image](https://user-images.githubusercontent.com/108912463/232141297-7db54024-6f79-4000-a161-438903a9e34c.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stivennevits&label=Profile%20views&color=0e75b6&style=flat" alt="stivennevits" /> </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=stivennevits&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
@@ -34,8 +34,9 @@
 ## My GitHub Stats
 
 <picture>
-<source 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=stivennevits&theme=dark)](https://git.io/streak-stats)
+<source
+[![GitHub Streak](https://streak-stats.demolab.com?user=stivennevits&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=stivennevits&theme=dark)](https://git.io/streak-stats)
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=stivennevits&show_icons=true"
