@@ -35,8 +35,7 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=stivennevits&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
+  [![GitHub Streak](https://streak-stats.demolab.com?user=stivennevits&theme=dark)](https://git.io/streak-stats)
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=stivennevits&show_icons=true"
