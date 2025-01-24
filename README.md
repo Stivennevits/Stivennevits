@@ -33,7 +33,7 @@
 
 ## My GitHub Stats
 
-<picture>
+
 <source
 [![GitHub Streak](https://streak-stats.demolab.com?user=stivennevits&theme=dark)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=stivennevits&theme=dark)](https://git.io/streak-stats)
@@ -43,22 +43,17 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=stivennevits&show_icons=true" />
-</picture>
+
 
 ## The Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stivennevits&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/stivennevits/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stivennevits&&show_icons=true&theme=tokyonight" alt="stivennevits" /></p>
  
-## My Favorite Music 
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31xhfxrz5bug4e7yg3eprce324r4&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 
 <!--
